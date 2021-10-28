@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Personal-PC" name="com.companyname.appname.testscript.RegTest" tests="3" failures="0" timestamp="13 Oct 2020 18:18:03 GMT" time="92.792" errors="0">
+  <testcase name="doRegTest" time="28.766" classname="com.companyname.appname.testscript.RegTest"/>
+  <testcase name="doRegTest" time="24.928" classname="com.companyname.appname.testscript.RegTest"/>
+  <testcase name="doRegTest" time="24.895" classname="com.companyname.appname.testscript.RegTest"/>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Myframework]" parallel="false">
+  <test name="FbLogin(failed)" preserve-order="false">
+    <classes>
+      <class name="com.companyname.appname.testscript.FbLogin">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="doFbLogin" invocation-numbers="0"/>
+        </methods>
+      </class>
+      <class name="com.companyname.appname.testscript.RegTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class>
+      <class name="com.companyname.appname.testscript.LoginTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

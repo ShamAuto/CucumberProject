@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Myframework">
+		<test name="FbLogin">
+		<classes>
+			<class name="com.companyname.appname.testscript.FbLogin" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="RegTest">
+		<classes>
+
+			<class name="com.companyname.appname.testscript.RegTest" />
+
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="LoginTest">
+		<classes>
+
+			<class name="com.companyname.appname.testscript.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Myframework -->

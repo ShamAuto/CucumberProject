@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Personal-PC" name="com.companyname.appname.testscript.LoginTest" tests="5" failures="0" timestamp="13 Oct 2020 18:20:08 GMT" time="124.906" errors="0">
+  <testcase name="doLoginTest" time="19.457" classname="com.companyname.appname.testscript.LoginTest"/>
+  <testcase name="doLoginTest" time="19.571" classname="com.companyname.appname.testscript.LoginTest"/>
+  <testcase name="doLoginTest" time="19.727" classname="com.companyname.appname.testscript.LoginTest"/>
+  <testcase name="doLoginTest" time="20.252" classname="com.companyname.appname.testscript.LoginTest"/>
+  <testcase name="doLoginTest" time="19.061" classname="com.companyname.appname.testscript.LoginTest"/>
+</testsuite>

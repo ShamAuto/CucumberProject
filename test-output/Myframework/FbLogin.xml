@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Personal-PC" name="com.companyname.appname.testscript.FbLogin" tests="1" failures="0" timestamp="13 Oct 2020 18:16:30 GMT" time="21.244" errors="0">
+  <testcase name="doFbLogin" time="13.918" classname="com.companyname.appname.testscript.FbLogin"/>
+</testsuite>
