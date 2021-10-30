@@ -28,7 +28,7 @@ public class FbLogin extends BaseTest {
 		driver.findElement(By.xpath("//input[@id='u_0_s']")).sendKeys(fdata.get("Phone"));
 		driver.findElement(By.xpath("//input[@id='u_0_v']")).sendKeys(fdata.get("Phone"));
 		driver.findElement(By.xpath("//input[@id='password_step_input']")).sendKeys(fdata.get("Password"));
-	    		
+	    	// 333333333333333333333333333
 		new Select(driver.findElement(By.xpath("//select[@id='month']"))).selectByVisibleText(fdata.get("Month"));
 		new Select(driver.findElement(By.xpath("//select[@id='day']"))).selectByVisibleText(fdata.get("Dates"));
 		new Select(driver.findElement(By.xpath("//select[@id='year']"))).selectByVisibleText(fdata.get("Year"));
